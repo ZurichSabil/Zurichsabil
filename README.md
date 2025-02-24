@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, Perkenalkan, saya Zurich Sabil, seorang mahasiswa Teknologi Informasi dengan ketertarikan di dunia digital. Saat ini, saya sedang mengembangkan pengetahuan di bidang Teknologi Informasi. Mari bersama hijaukan dunia dengan teknologi! 🌱💻
 
 <!--
 **ZurichSabil/Zurichsabil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
